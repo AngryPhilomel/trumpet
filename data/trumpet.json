@@ -1,0 +1,82 @@
+[
+	{
+		"tr_name": "ТРУБА МЕТ-ПЛАСТИК 16ММ",  
+		"label_name": "М-П 16ММ",
+		"barcode":"4680006675073"
+	},
+
+	{
+		"tr_name": "ТРУБА МЕТ-ПЛАСТ VALTEC 16Х2.0 ММ 1М",  
+		"label_name": "VALTEC 16Х2.0",
+		"barcode":"4607079077023"
+	},
+
+
+	{
+		"tr_name": "ТРУБА МЕТ-ПЛАСТИК UNI-FITT 16ММ",  
+		"label_name": "UNI-FITT 16",
+		"barcode":"4660011382678"
+	},
+	
+
+	{
+		"tr_name": "ТРУБА МЕТ-ПЛАСТИК 20ММ",  
+		"label_name": "М-П 20ММ",
+		"barcode":"4680006675080"
+	},
+	
+
+	{
+		"tr_name": "ТРУБА МЕТ-ПЛАСТ VALTEC 20Х2,0ММ 1М",  
+		"label_name": "VALTEC 20Х2,0",
+		"barcode":"4607079079195"
+	},
+	
+
+	{
+		"tr_name": "ТРУБА МЕТ-ПЛАСТ VALTEC 26Х3.0 ММ 1М",  
+		"label_name": "VALTEC 26Х3.0",
+		"barcode":"4607079075067"
+	},
+	
+
+	{
+		"tr_name": "ТРУБА МЕТ-ПЛАСТ VALTEC 32Х3.0 ММ 1М",  
+		"label_name": "VALTEC 32Х3.0",
+		"barcode":"4607079075135"
+	},
+	
+
+	{
+		"tr_name": "ТРУБА REHAU RAUTITAN FLEX 16.2Х2.2ММ",  
+		"label_name": "FLEX 16.2Х2.2",
+		"barcode":"4007360091521"
+	},
+	
+
+	{
+		"tr_name": "ТРУБА REHAU RAUTITAN STABIL 16.2Х2.6ММ",  
+		"label_name": "STABIL 16.2Х2.6",
+		"barcode":"4007360300364"
+	},
+	
+
+	{
+		"tr_name": "ТРУБА REHAU RAUTITAN STABIL 20Х2.9MM",  
+		"label_name": "STABIL 20Х2.9",
+		"barcode":"4007360300371"
+	},
+	
+
+	{
+		"tr_name": "ТРУБА REHAU RAUTITAN PINK 16.2Х2.2MM",  
+		"label_name": "PINK 16.2Х2.2",
+		"barcode":"4007360067915"
+	}
+
+
+
+
+	
+
+]
